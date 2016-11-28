@@ -1,6 +1,6 @@
 # Toplantı Tutanağı
 
-Çalıştığım projelerde, kurumlarda en fazla zaman harcadığım işlerin başında toplantılar geliyordu. Çevrenizde kime sorsanız toplantıların veriminden şikayetçi olur; nu nedenle gereksiz, boşa zaman harcanan, bununla birlikte olmazsa olmazlardan da görülür. Özellikle yazılım sektöründe çalışan "yazılım mühendisleri" bu konudan daha da şikayetçiler. Bıraksınlar kodumu yazayım modundadır. 
+Çalıştığım projelerde, kurumlarda en fazla zaman harcadığım işlerin başında toplantılar geliyordu. Çevrenizde kime sorsanız toplantıların veriminden şikayetçi olur; bu nedenle gereksiz, boşa zaman harcanan, bununla birlikte olmazsa olmazlardan da görülür. Özellikle yazılım sektöründe çalışan "yazılım mühendisleri" bu konudan daha da şikayetçiler. Bıraksınlar kodumu yazayım modundadır. 
 
 Edindiğim tecrübelere göre toplantı verimliliğini düşüren belli başlı problemler, sadece bir toplantı tutanağı ile bile çözülebilecek nitelikteydi. Ben de buna uygun, zamanla geliştirdiğim bir toplantı tutanağı oluşturdum ve yönetici, personel olarak yer aldığım tüm projelerde uyguladım, verimli olduğunu bizzat müşahade ettim. Çevremde gözlediğim ise bu tutanağa uygulanmasına yönelik ayak diremeydi. Çünkü kişileri daha toplantı olmadan bir çok şeye hazırlamaya zorluyordu. Bu durumda alışkanlıklara ters geliyordu. 
 
@@ -23,8 +23,11 @@ Edindiğim tecrübelere göre toplantı verimliliğini düşüren belli başlı 
 
 1. Bir sonraki toplantının yeri ve saati, toplantı esnasında tüm katılımcıların olduğu ortamda kararlaştırılmalı. Böylece toplantı zamanı daha hızlı bir şekilde kararlaştırılacak olup, ilerleyen dönemlerde bununla ilgili gereksiz zaman harcanmayacaktır.
 2. Toplantı yeri ile ilgili hem dış ortam hemde bina içi kroki paylaşımı toplantı yeri arama gibi gereksiz zaman kaybını ortadan kaldıracaktır.
-3. Toplantının gündem maddeleri toplantı öncesi belirlenip, katılımcılarla paylaşılmalıdır. Böylece katılımcılar toplantıya hazırlılklı gelerek verim artılabilecektir.
-4. Gündem maddeleri üzerinden toplantının muhtemel süresi belirlenmelidir ki, katılımcılar bu duruma göre planlama yapabilmedir. En sık yaşadığımız şey. Toplantının tam ortasında en kilit personelden birinin "...benim başka bir toplantım daha var, bunun bu kadar uzayacağını bilmiyordum. Çıkmam lazım." diyerek ayrılması üzerine. Toplantının yarıda bitirilmek zorunda kalınmasıdır. Bu durumla çok sık karşılaştığımı belirtebilirim.
+3. Toplantının gündem maddeleri toplantı öncesi belirlenip, katılımcılarla paylaşılmalıdır. Böylece katılımcılar toplantıya hazırlılklı gelerek verim artılabilecektir. İlgili kişiler katılımcı grubuna eklenebilecek, ilgisiz kişiler toplantıya katılmama kararı alabilecektir.
+4. Gündem maddeleri üzerinden toplantının muhtemel süresi belirlenmelidir ki, katılımcılar bu duruma göre planlama yapabilmedir. En sık yaşadığımız şey. Toplantının tam ortasında en kilit personelden birinin "...benim başka bir toplantım daha var, bunun bu kadar uzayacağını bilmiyordum. Çıkmam lazım." diyerek ayrılması üzerine toplantının yarıda bitirilmek zorunda kalınmasıdır. Bu durumla çok sık karşılaştığımı belirtebilirim.
+5. Görüşülen gündem maddelerinin her biri için sorumlu ve gerçekci zaman ataması yapılmalıdır. Belkide en kilit noktalardan birisi bu. Toplantı bittiğinde herkes elindeki işi ve "deadline" biliyor olmalıdır.
+6. Toplantının başında ek gündem maddeleri belirlenmeli, toplantının zamanında bitirilmesi adına gündem dışına çıkılmamalıdır. Katılımcıların herbirinin tek işi o gün o toplantı olmayabilir. 
+7. Toplantı tutanağı toplantıya katılan, katılamayan, gelecek toplantı için katılması planlanan, görev sorumluluk verilen herkesle paylaşılmalıdır.
+8. Toplantı tutanakları ortak, kolay ulaşılabilir, güvenilir bir ortamdan kayıt altına alınmalıdır. Daha sonra ulaşılmak istendiğinde dosyalar, klasörler, eski personellerin atıl dosyaları arasında tutanak arayarak zaman kaybedilmemelidir.
+9. Çok ortaklı projelerde tutanaklar aslında, birer küçük sözleşme metinlerindir. Bu sayede proje gidişatının aksayan tarafları kolayca tespit edilebilmektedir.
 
-
-Bir sonraki toplantıya katılacaklar, toplantı esnasında belirlenmesi, sonraki toplantını
