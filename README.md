@@ -8,7 +8,7 @@ Edindiğim tecrübelere göre toplantı verimliliğini düşüren belli başlı 
 
 * Genelde toplantının konusu bilinmez. Bu nedenle toplantıya katılacaklar nereye gittiklerini bile bilmezler. Bazen toplantı yapılmaya başlanınca konun kendileriyle hiçte alakası olmadığını farkederler.
 * Toplantı saati hep problem olur. Özellikle kalabalık gruplarla yapılan toplantılarda sürekli geç kalanlar olur.
-* Toplantı yerine ulaşım, bina içinde toplantı odasını bulma hep sorundur. Geç kalma hekayelerinin başında gelir.
+* Toplantı yerine ulaşım, bina içinde toplantı odasını bulma hep sorundur. Geç kalma hikayelerinin başında gelir.
 * Toplantı da olması gereken, kilit personel bazı durumlarda toplantıda olmaz. Toplantının ortasında çağıralım denir. Bulunamaz, konu dağılır.
 * Toplantı öncesi gündem belli değildir. Katılımcılar ne konuşulacağı hakkında fikir sahibi değildir, doğal olarak hazırlıklı da değildirler. Gündem açılınca hazırlıksız gelindiği fark edilir, işi bazı bölümleri diğer toplantıya bırakılır.
 * Alınan kararlar için kişi bazında sorumlu belirlenmez. Bu yapılacak denir. Son günü belli olmayan, sorumlusu belli olmayan iş tanımları ortada dolaşır. Yapılacağı kayıt altına alınır. Unutulur, sonra hatırlanır. Neden bitmedi! Herkes birbirine bakar. Tekrar konuşulur, sorumlu atanır. İş bir türlü bitmez.
@@ -25,9 +25,8 @@ Edindiğim tecrübelere göre toplantı verimliliğini düşüren belli başlı 
 2. Toplantı yeri ile ilgili hem dış ortam hemde bina içi kroki paylaşımı toplantı yeri arama gibi gereksiz zaman kaybını ortadan kaldıracaktır.
 3. Toplantının gündem maddeleri toplantı öncesi belirlenip, katılımcılarla paylaşılmalıdır. Böylece katılımcılar toplantıya hazırlılklı gelerek verim artılabilecektir. İlgili kişiler katılımcı grubuna eklenebilecek, ilgisiz kişiler toplantıya katılmama kararı alabilecektir.
 4. Gündem maddeleri üzerinden toplantının muhtemel süresi belirlenmelidir ki, katılımcılar bu duruma göre planlama yapabilmedir. En sık yaşadığımız şey. Toplantının tam ortasında en kilit personelden birinin "...benim başka bir toplantım daha var, bunun bu kadar uzayacağını bilmiyordum. Çıkmam lazım." diyerek ayrılması üzerine toplantının yarıda bitirilmek zorunda kalınmasıdır. Bu durumla çok sık karşılaştığımı belirtebilirim.
-5. Görüşülen gündem maddelerinin her biri için sorumlu ve gerçekci zaman ataması yapılmalıdır. Belkide en kilit noktalardan birisi bu. Toplantı bittiğinde herkes elindeki işi ve "deadline" biliyor olmalıdır.
-6. Toplantının başında ek gündem maddeleri belirlenmeli, toplantının zamanında bitirilmesi adına gündem dışına çıkılmamalıdır. Katılımcıların herbirinin tek işi o gün o toplantı olmayabilir. 
+5. Görüşülen gündem maddelerinin her biri için sorumlu ve gerçekci zaman ataması yapılmalıdır. Belkide en kilit noktalardan birisi bu. Toplantı bittiğinde herkes elindeki işi ve miadını (ing:deadline) biliyor olmalıdır.
+6. Toplantının başında ek gündem maddeleri belirlenmeli, toplantının zamanında bitirilmesi adına gündem dışına çıkılmamalıdır. Katılımcıların herbirinin o gün için tek işi o toplantı olmayabilir. 
 7. Toplantı tutanağı toplantıya katılan, katılamayan, gelecek toplantı için katılması planlanan, görev sorumluluk verilen herkesle paylaşılmalıdır.
 8. Toplantı tutanakları ortak, kolay ulaşılabilir, güvenilir bir ortamdan kayıt altına alınmalıdır. Daha sonra ulaşılmak istendiğinde dosyalar, klasörler, eski personellerin atıl dosyaları arasında tutanak arayarak zaman kaybedilmemelidir.
 9. Çok ortaklı projelerde tutanaklar aslında, birer küçük sözleşme metinlerindir. Bu sayede proje gidişatının aksayan tarafları kolayca tespit edilebilmektedir.
-
